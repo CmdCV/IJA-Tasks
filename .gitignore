@@ -1,0 +1,7 @@
+.idea/**/*
+out/**/*
+cls/**/*
+build/**/*
+*.DS_Store
+xurbana00.zip
+xkovacm01.zip
