@@ -21,7 +21,7 @@ test2: homework2
 	java -ea -jar ./${JUNIT} execute --cp build:ijatool.jar --scan-class-path
 
 clean:
-	rm -rf cls build ${ALES}.zip ${MARTIN}_${ALES}.zip
+	rm -rf cls build ${ALES}.zip ${MARTIN}.zip
 
 zip: zip1 zip2
 
